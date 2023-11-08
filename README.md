@@ -28,13 +28,14 @@ shopping_mall, price and quantity. Firstly, it was necessary to understand if an
 across malls at around 842 or, proportionally, about 10%. What this implied was that the the quantity of goods sold would be most indicitive of the 
 mall that sell the most number of items. This happens to be The Mall of Istanbul which sold about 20.1% of all units with Kanyon close behind at 19.9%. 
 
+![Q1_plot](https://github.com/BrianMekiSCA/BrianMekiSCA.github.io/assets/53751214/519f6c74-a686-4e60-b94f-23450dbe7931)
 
 ### 2. What goods might be worthwhile selling?
 The product categories to invest in once the shop is located in the Mall of Istanbul is Clothing as it has the most items bought at roughly 35%. 
 In second and third places would be Cosmetics and Food&Beverage with 15.3% and 14.8% of the units sold respectively. Together these categories amount to about 65%
 of all units sold at this particular mall.
 
-
+![Q2_plot](https://github.com/BrianMekiSCA/BrianMekiSCA.github.io/assets/53751214/36a9c4c3-f8b5-413b-9fa8-94e3daebd051)
 
 ### 3. Can demand be expected to vary between males and females?
 The average number of items consumed by males versus that consumed by females is roughly the same at approx 3 with a standard deviation of 1.4. It stands to reason 
