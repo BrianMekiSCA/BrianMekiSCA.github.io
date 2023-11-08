@@ -1,5 +1,5 @@
 # Main Objective
-This post seeks to examplify steps that could be employed by Data Scientist to address business questions.
+This post seeks to examplify steps that could be employed by any given Data Scientist to address business questions.
 
 # Scenario
 Consider this overly simplified situation. An entrepreneur wishes to open a simple shop say in Istanbul. Immediately, some of the questions they may ask could be,
